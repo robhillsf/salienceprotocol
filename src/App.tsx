@@ -1,7 +1,7 @@
-import salience-protocol-doc from './salience-protocol-doc';
+import SalienceProtocol from './SalienceProtocol';
 
 function App() {
-  return <salience-protocol-doc />;
+  return <SalienceProtocol />;
 }
 
 export default App;
